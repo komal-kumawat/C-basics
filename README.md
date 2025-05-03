@@ -175,4 +175,3 @@ printf("%d", *p);     // Dereference p to get value of x, Output: 10
 
 ---
 
-These are the fundamental concepts of C programming. Would you like further examples or guidance on any particular topic?
